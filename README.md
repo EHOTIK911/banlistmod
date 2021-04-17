@@ -1,0 +1,2 @@
+# banlistmod
+mod list
